@@ -12,10 +12,11 @@
     };
 
     console.log(toDot(user));
-    // {
-    //  'name.first': 'Joe',
-    //  'name.last': 'M'
-    // } 
+     
+    /* {
+      'name.first': 'Joe',
+      'name.last': 'M'
+    } */
 
 ## Installation
 
