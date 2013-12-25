@@ -18,22 +18,3 @@ module.exports = function (obj) {
 
   return ret;
 };
-
-
-
-var obj = {
-  name: {
-    first: 'Nathan',
-    last: 'Tran'
-  },
-  price: {
-    min: 10,
-    max: 11,
-    night: {
-      min: 1,
-      max: 10
-    }
-  }
-};
-
-console.log(module.exports(obj));
