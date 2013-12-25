@@ -26,7 +26,7 @@
 
 ### toDot(obj)
 
-  return converted dot-notation object from `object`.
+  return converted dot-notation object from `obj`.
 
 ## License
 
