@@ -1,6 +1,6 @@
 # to-dot
 
-  Convert object to to dot notation
+  Convert object to to dot notation.
   
     var toDot = require('to-dot');
     
