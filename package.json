@@ -1,6 +1,6 @@
 {
   "name": "to-dot",
-  "description": "Convert object to to dot notation",
+  "description": "Convert object to dot notation",
   "version": "0.0.3",
   "repository": "git://github.com/nthtran/to-dot.git",
   "main": "index.js",
