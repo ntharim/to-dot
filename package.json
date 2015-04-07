@@ -2,7 +2,7 @@
   "name": "to-dot",
   "description": "Convert object to to dot notation",
   "version": "0.0.1",
-  "repository": "git://github.com/Ntran013/to-dot.git",
+  "repository": "git://github.com/nthtran/to-dot.git",
   "main": "index.js",
   "devDependencies": {
     "chai": "*"

@@ -25,6 +25,6 @@ describe('to-dot', function () {
     dot['price.min'].should.equal(10);
     dot['price.max'].should.equal(11);
     dot['price.night.min'].should.equal(1);
-    dot['price.night.max'].should.equal(10); 
+    dot['price.night.max'].should.equal(10);
   });
 });
